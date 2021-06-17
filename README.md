@@ -18,8 +18,6 @@
 
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=vixemari&show_icons=true&theme=dracula&title_color=e64cad&text_color = ffffff & locale = en "alt =" vixemari "/> </p>
 
-<p> <img align =" center "src =" https://github-readme-streak-stats.herokuapp.com/?user=vixemari&theme= escuro "alt =" vixemari "/> </p>
-
 
 
  
