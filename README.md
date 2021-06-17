@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixemari&show_icons=true&theme=dracula&title_color=e64cad&text_color=ffffff&locale=en&layout=compact" alt="vixemari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vixemari&show_icons=true&theme=dracula&title_color=e64cad&text_color=ffffff&locale=en" alt="vixemari" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vixemari&show_icons=true&theme=dracula&title_color=e64cad&text_color=ffffff&locale=en" alt="vixemari" /></p>
 
 
 
