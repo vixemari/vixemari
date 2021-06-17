@@ -21,6 +21,7 @@
 <p> <img align =" center "src =" https://github-readme-streak-stats.herokuapp.com/?user=vixemari&theme= escuro "alt =" vixemari "/> </p>
 
 
+
  
  ![Snake animation](https://github.com/vixemari/vixemari/blob/output/github-contribution-grid-snake.svg)
 
