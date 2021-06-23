@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Mariana Rocha</h3>
-<h4 align="center">A web development at Trybe</h4>
+<h4 align="center">A web development studant at Trybe</h4>
 
 - 🌱 I’m currently learning **Html, Css**
 - 📫 How to reach me **marianarocha308@gmail.com**
