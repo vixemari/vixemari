@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **ReactJs, Redux, Docker, SQL**
 
+- 📫 How to reach me **marianarocha308@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rochamarianadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rochamarianadev" height="30" width="40" /></a>
@@ -16,9 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixemari&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vixemari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vixemari&show_icons=true&theme=dracula&locale=en" alt="vixemari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vixemari&theme=dark" alt="vixemari" /></p>
-
  ![Snake animation](https://github.com/vixemari/vixemari/blob/output/github-contribution-grid-snake.svg)
 
 
