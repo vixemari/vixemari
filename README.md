@@ -18,6 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vixemari&show_icons=true&theme=dracula&locale=en&layout=compact" alt="vixemari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vixemari&show_icons=true&theme=dracula&locale=en" alt="vixemari" /></p>
+
  ![Snake animation](https://github.com/vixemari/vixemari/blob/output/github-contribution-grid-snake.svg)
 
 
