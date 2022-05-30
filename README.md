@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vixemari&label=Profile%20views&color=590eb4&style=flat-square" alt="vixemari" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Redux, Docker, SQL**
+- 🌱 I’m currently learning **ReactJs, Redux, Docker, SQL, Node.js**
 
 - 📫 How to reach me **marianarocha308@gmail.com**
 
