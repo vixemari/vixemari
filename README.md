@@ -1,3 +1,4 @@
+<header><img src='https://drive.google.com/file/d/11ooYAI19mEwM7u2KLyHdAInGuqvQ7Pl6/view?usp=sharing'></img></header>
 <h1 align="center">Hi 👋, I'm Mariana Rocha</h1>
 <h3 align="center">Front end Dev e web development studant at Trybe</h3>
 
