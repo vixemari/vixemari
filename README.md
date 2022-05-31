@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mariana Rocha</h1>
-<h3 align="center">Front end Dev e web development studant at Trybe</h3>
+<h3 align="center">Fullstack Dev Jr e web development studant at Trybe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vixemari&label=Profile%20views&color=590eb4&style=flat-square" alt="vixemari" /> </p>
 
